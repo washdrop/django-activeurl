@@ -13,6 +13,13 @@ Easy-to-use active URL highlighting for Django
 .. image:: https://img.shields.io/pypi/v/django_activeurl.svg
     :target: https://pypi.python.org/pypi/django-activeurl
 
+Updates
+=======
+
+This version of django-activeurl is compatible with django
+up to version 4.1 and dropped support for version before
+3.2. Therefore python > 3.8 is required.
+
 Features
 ========
 
